@@ -34,15 +34,15 @@ const customStyles = {
   separatorUnFinishedColor: '#EBEBEB',
   stepIndicatorFinishedColor: '#19A1AA',
   stepIndicatorUnFinishedColor: '#FFF',
-  stepIndicatorCurrentColor: '#19A1AA',
+  stepIndicatorCurrentColor: '#EBEBEB',
   stepIndicatorLabelFontSize: 13,
   currentStepIndicatorLabelFontSize: 13,
-  stepIndicatorLabelCurrentColor: '#19A1AA',
+  stepIndicatorLabelCurrentColor: '#EBEBEB',
   stepIndicatorLabelFinishedColor: '#ffffff',
   stepIndicatorLabelUnFinishedColor: '#EBEBEB',
   labelColor: '#EBEBEB',
   labelSize: 13,
-  currentStepLabelColor: '#19A1AA'
+  currentStepLabelColor: '#EBEBEB'
 }
 
 export default Stepper
